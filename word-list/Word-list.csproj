@@ -7,8 +7,8 @@
     <ProjectGuid>{D438FA5E-15A1-429F-9716-8EA61A8D4B8A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Leitein_Voc_list</RootNamespace>
-    <AssemblyName>Leitein-Voc-list</AssemblyName>
+    <RootNamespace>word_list</RootNamespace>
+    <AssemblyName>word_list</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
